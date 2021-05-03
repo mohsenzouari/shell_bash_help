@@ -1,3 +1,21 @@
 https://www.linkedin.com/learning/linux-les-commandes-du-terminal/aborder-cette-formation
 https://cheatography.com/davechild/cheat-sheets/linux-command-line/
 https://www.youtube.com/watch?v=sw9kdFka8rA
+
+-commands review-
+pwd
+cd 
+mkdir
+touch file.txt file1.txt
+ls -la 
+echo mohsen > file.txt
+echo zouari >> file.txt
+cp file.txt file1.txt
+mv file.txt ..
+cat file
+vim file
+rm file
+rmdir empty_dir
+rm -rf remove_dir
+start .
+
