@@ -13,7 +13,7 @@ echo zouari >> file.txt
 cp file.txt file1.txt
 mv file.txt ..
 cat file
-vim file
+vim file (escape=>:x)
 rm file
 rmdir empty_dir
 rm -rf remove_dir
