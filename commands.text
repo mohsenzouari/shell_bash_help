@@ -18,4 +18,4 @@ rm file
 rmdir empty_dir
 rm -rf remove_dir
 start .
-
+command1 (; && ||) command2
